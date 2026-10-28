@@ -16,7 +16,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas,  estou construindo minh
 
 
 
-## 🌐 Socials:
+## 🌐 Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kevin-gomess?utm_source=share_via&utm_content=profile&utm_medium=member_ios) 
 
 # 💻 Tech Stack:
