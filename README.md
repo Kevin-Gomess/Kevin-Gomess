@@ -8,7 +8,3 @@ Meu objetivo é transformar conhecimento em soluções eficientes, continuar apr
 
 
 
-<div align="center">
-  <img src="LINK_DA_SUA_IMAGEM"
-       width="100%" alt="Capa de tecnologia">
-</div>
