@@ -10,8 +10,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas,  estou construindo minh
 
 💻 Aprendendo novas tecnologias e colocando meus conhecimentos em prática.
 
-🛠️ Desenvolvendo projetos para aprimorar minhas habilidades e construir meu portfólio.
-
 🎯 Buscando minha primeira oportunidade profissional na área de tecnologia.
 
 
