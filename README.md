@@ -2,9 +2,14 @@
 
 **`Estudante`**
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente aprimorando meus conhecimentos em programação, desenvolvimento de software e tecnologias relacionadas à área de tecnologia.
-Estou constantemente aprendendo novas linguagens de programação, ferramentas e frameworks, buscando desenvolver projetos práticos e evoluir minhas habilidades como desenvolvedor.
-Meu objetivo é transformar conhecimento em soluções eficientes, continuar aprendendo e construir uma carreira sólida na área de desenvolvimento de software.
+Sou estudante de Análise e Desenvolvimento de Sistemas,  estou construindo minha trajetória na área de tecnologia. Atualmente, estou aprimorando meus conhecimentos em programação e desenvolvimento de software por meio dos estudos e de projetos práticos.
 
+🌐 Aprendendo programação e desenvolvimento web, enquanto exploro UI/UX Design e a criação de interfaces intuitivas e visualmente agradáveis. 
 
+🎨 Explorando a criação de interfaces, protótipos e experiências digitais.
 
+💻 Aprendendo novas tecnologias e colocando meus conhecimentos em prática.
+
+🛠️ Desenvolvendo projetos para aprimorar minhas habilidades e construir meu portfólio.
+
+🎯 Buscando minha primeira oportunidade profissional na área de tecnologia.
