@@ -25,4 +25,3 @@ Sou estudante de Análise e Desenvolvimento de Sistemas,  estou construindo minh
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kevin-Gomess&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 [![](https://komarev.com/ghpvc/?username=Kevin-Gomess&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Criado com orgulho usando o GPRM ( https://gprm.itsvg.in ) -->
